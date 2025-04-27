@@ -8,9 +8,9 @@ nearest_target = ""
 
 # --- CONFIGURATION CONSTANTS ---
 DISTANCE_MIN = 10    # mm
-DISTANCE_MAX = 1000  # mm (can be tuned)
+DISTANCE_MAX = 6000  # mm (can be tuned)
 
-CONFIDENCE_MIN = 10  # minimum confidence accepted (0-255)
+CONFIDENCE_MIN = 5  # minimum confidence accepted (0-255)
 CONFIDENCE_MAX = 255 # maximum confidence (optional, usually 255)
 
 SCREEN_SIZE = 21
